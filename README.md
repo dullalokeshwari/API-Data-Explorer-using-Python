@@ -65,4 +65,4 @@ python main.py
 The application displays API data on the screen and can save all posts to a file named `posts.csv`.
 
 
-Dudala Lokeshwari
+
